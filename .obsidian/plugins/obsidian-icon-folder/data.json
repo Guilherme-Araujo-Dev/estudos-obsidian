@@ -1,0 +1,56 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiAmazondocumentdb",
+      "SiAngular",
+      "FarFutbol",
+      "FarStar",
+      "SiUdemy"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "5. IDE's/IntelliJ.md": "SiIntellijidea",
+  "5. IDE's/VSCode.md": "SiVisualstudiocode",
+  "1. Linguagens/JS.md": "SiJavascript",
+  "1. Linguagens/TS.md": "SiTypescript",
+  "1. Linguagens/Java": "SiCoffeescript",
+  "6. Plataformas Ensino/Alura.md": "SiAlamy",
+  "6. Plataformas Ensino/Udemy.md": "SiUdemy",
+  "1. Linguagens/Java/Áreas de Estudo/Orientação a Objeto/Orientação a Objeto.md": {
+    "iconName": "FarFutbol",
+    "iconColor": "#004cff"
+  },
+  "1. Linguagens/Java/Java.md": {
+    "iconName": "SiCoffeescript",
+    "iconColor": "#ff1100"
+  },
+  "2. Frameworks Desenvolvimento/Angular": "SiAngular",
+  "2. Frameworks Desenvolvimento/Angular/Angular.md": {
+    "iconName": "SiAngular",
+    "iconColor": "#ff2e2e"
+  },
+  "1. Linguagens/XML.md": "SiAmazondocumentdb"
+}
